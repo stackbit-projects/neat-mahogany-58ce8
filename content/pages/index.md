@@ -8,8 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Creativity that thrives, art in an acessible form and some dang cute
-      earrings
+      # Creativity that thrives and some dang cute earrings
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
