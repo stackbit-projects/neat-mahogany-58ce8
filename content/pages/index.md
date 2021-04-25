@@ -33,7 +33,7 @@ sections:
       - content/pages/category/cactuses.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Custom stickers and prints designed by us
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
