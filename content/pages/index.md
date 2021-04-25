@@ -36,7 +36,7 @@ sections:
     title: Custom stickers and prints designed by us
     subtitle: from £8.00
     image: images/promo.jpg
-    background_image: images/leaf.svg
+    background_image: images/unnamed.png
     cta:
       title: Discover
       url: /store
