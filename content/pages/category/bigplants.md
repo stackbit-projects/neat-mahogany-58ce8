@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Stickers
 layout: category
 order: 1
 seo:
