@@ -31,19 +31,6 @@ sections:
     featured_categories:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    title: The charities that we love
-    testimonials:
-      - author:
-          name: John Dope
-          location: 'Colorado, USA'
-      - author:
-          name: Major Payne
-          location: 'VA, USA'
-        text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
