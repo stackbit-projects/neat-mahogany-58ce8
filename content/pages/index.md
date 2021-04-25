@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Creativity that thrives and some dang cute earrings
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Bringing a little bit of joy, one sticker at a time
     actions:
       - title: See all items
         url: /store
