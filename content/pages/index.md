@@ -33,7 +33,7 @@ sections:
       - content/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: The charities that we love
     testimonials:
       - author:
           name: John Dope
