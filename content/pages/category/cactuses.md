@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Earrings
 layout: category
 order: 2
 seo:
