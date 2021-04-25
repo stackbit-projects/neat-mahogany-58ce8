@@ -34,7 +34,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Custom stickers and prints designed by us
-    subtitle: from $149.99
+    subtitle: from £8.00
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
